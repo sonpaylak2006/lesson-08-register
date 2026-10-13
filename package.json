@@ -1,0 +1,12 @@
+{
+  "name": "lesson-08-register",
+  "version": "1.0.0",
+  "description": "Lesson 8 - JavaScript nâng cao: Đăng ký tài khoản với Axios và JSON Server Auth",
+  "scripts": {
+    "db": "json-server db.json -m ./node_modules/json-server-auth --port 3000"
+  },
+  "dependencies": {
+    "json-server": "^0.17.4",
+    "json-server-auth": "^2.1.0"
+  }
+}

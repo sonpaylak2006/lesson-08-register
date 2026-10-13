@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "email": "sonpaylak2006@gmail.com",
+      "password": "$2a$10$TXfueAmdTvrIlqZWO6Z7r.aORs.drG5iXtjbI0ieJ.kDRnTkHe6Su",
+      "name": "Nguyễn Trường Sơn",
+      "id": 1
+    },
+    {
+      "email": "abc@gmail.com",
+      "password": "$2a$10$V8Or/CYUM1AdJqn9ENi75uS6gmiZaJnSo9AZwcaxviNf/17Tzxsuq",
+      "name": "son",
+      "id": 2
+    },
+    {
+      "email": "an@gmail.com",
+      "password": "$2a$10$EFcn3n.abA8oKGh/0nO9MesWInezvYgcb.FtB4Kw86AxRnLRo89.K",
+      "name": "an",
+      "id": 3
+    }
+  ]
+}
